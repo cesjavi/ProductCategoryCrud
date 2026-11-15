@@ -567,3 +567,8 @@ public class UserRegisterDto
 Este proyecto está configurado para trabajar con SQLite como base de datos por defecto. Asegúrate de actualizar las cadenas de conexión si decides usar otro proveedor.
 
 
+
+## Contributors
+
+- Cesar Javier Mendoza
+- Muhammad Abdullah
